@@ -1,0 +1,22 @@
+{
+  "name": "worktracker-server",
+  "version": "1.0.0",
+  "description": "Web service API for worktracker internal web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanjungtech/worktracker-server.git"
+  },
+  "author": "d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanjungtech/worktracker-server/issues"
+  },
+  "homepage": "https://github.com/tanjungtech/worktracker-server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
